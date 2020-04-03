@@ -1,4 +1,4 @@
-# photos-iOS
+# Photos-iOS
 
 **Photos app for iOS 13 built with Swift 5 and Xcode 11.**
 
